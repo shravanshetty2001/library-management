@@ -15,5 +15,5 @@ This is a web application where librarian can do all library related works. Thou
 
 ## Project
 This project can be viewed [here](https://shravaninventory.000webhostapp.com/)
-User Id-abcd@gmail.com
+Id- abcd@gmail.com
 Password-12345678
